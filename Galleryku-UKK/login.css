@@ -1,0 +1,147 @@
+.nmku {
+  font-size: 18px;
+  margin-top: 8px;
+  margin-bottom: -3px;
+  margin-left: 60px;
+}
+body {
+  background-color: #e3e1e1;
+}
+.judul {
+  font-size: 35px;
+  font-family: inknut Antiqua;
+  margin-bottom: 20px;
+  margin-left: 60px;
+  margin-top: 150px;
+}
+.userku {
+  border-radius: 15px;
+  width: 350px;
+  height: 50px;
+  margin-bottom: 5px;
+  display: block;
+  border-style: solid;
+  margin-left: 60px;
+  margin-top: 8px;
+  padding-left: 20px;
+}
+.btnmasuk {
+  border-radius: 20px;
+  width: 350px;
+  height: 60px;
+  background-color: #000;
+  color: white;
+  margin-top: 15px;
+  font-size: 20px;
+  margin-left: 60px;
+}
+.image {
+  width: 650px;
+  height: 650px;
+  margin-top: 80px;
+  margin-left: -50px;
+}
+.pp {
+  font-size: 18px;
+  margin-left: 130px;
+  margin-top: 8px;
+}
+.glry {
+  width: 700px;
+  height: 650px;
+  margin-left: -50px;
+  margin-right: 20px;
+  margin-top: 80px;
+}
+.user {
+  border-radius: 15px;
+  width: 220px;
+  height: 65px;
+  margin-bottom: px;
+  display: block;
+  border-style: solid;
+  margin-left: 20px;
+  margin-top: 8px;
+  padding-left: 20px;
+}
+.usera {
+  border-radius: 15px;
+  width: 500px;
+  height: 65px;
+  margin-bottom: px;
+  display: block;
+  border-style: solid;
+  margin-left: 20px;
+  margin-top: 8px;
+}
+.nama {
+  font-size: 35px;
+  font-family: inknut Antiqua;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-top: 150px;
+}
+.akun {
+  margin-top: 8px;
+  margin-left: 160;
+}
+.id {
+  font-size: 18px;
+  margin-top: 8px;
+  margin-bottom: -3px;
+  margin-left: 20px;
+}
+.btndftr {
+  border-radius: 20px;
+  width: 500px;
+  height: 55px;
+  background-color: #000;
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 20px;
+  margin-left: 30px;
+}
+/* tampilan agar mobile berubah */
+@media only screen and (max-width: 600px) {
+  .image {
+    display: none;
+  }
+  .glry {
+    display: none;
+  }
+}
+/*homepage*/
+.gbr1 {
+  width: 250px;
+  height: 200px;
+}
+Footer {
+  background-color: #000;
+  text-align: center;
+  color: white;
+}
+.gbr2 {
+  width: 100%;
+  height: 100%;
+}
+.gbrbr {
+  width: 100%;
+  height: 100%;
+}
+.gabung {
+  background-color: #000;
+  width: 300px;
+  height: 50px;
+  text-align: center;
+  color: white;
+  border-radius: 30px;
+}
+.gbgb {
+  width: 15px;
+  height: 15px;
+}
+.foto {
+  width: 50px;
+  height: 50px;
+}
